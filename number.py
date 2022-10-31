@@ -1,4 +1,4 @@
-#Variable that allows integer input
+#Variable that allows integer input python
 
 number = int(input("Which number do you want to check? "))
 
